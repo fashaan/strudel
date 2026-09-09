@@ -1,13 +1,9 @@
 {
   "_base": "https://raw.githubusercontent.com/fashaan/strudel/main/",
   "kick": [
-    "kicks/trancekick.wav",
+    "kicks/trancekick.wav"
   ],
-  "snare": [
-     ],
   "top": [
-    "tops/trancetop.wav",
-  ],
-  "vox": [
+    "tops/trancetop.wav"
   ]
 }
